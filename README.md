@@ -25,9 +25,5 @@ stochastic-modeling/
 │
 ├── notebooks/
 │   └── Stochastic Modelling Project.ipynb   # Main notebook
-│
-├── plots/                                   # Saved figures (VaR, rolling vol, etc.)
-├── report/                                  # (Optional) Final write-up or summary
-├── src/                                     # (Optional) Helper Python scripts
 ├── requirements.txt                         # Python dependencies
 └── .gitignore                               # Ignore system files and checkpoints

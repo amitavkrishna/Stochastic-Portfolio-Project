@@ -25,5 +25,7 @@ stochastic-modeling/
 │
 ├── notebooks/
 │   └── Stochastic Modelling Project.ipynb   # Main notebook
+├── report/                                  # Final write-up
 ├── requirements.txt                         # Python dependencies
 └── .gitignore                               # Ignore system files and checkpoints
+
